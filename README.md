@@ -3,7 +3,7 @@
 
 <img alt="Coder GIF" align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cenofx&label=Profile%20views&color=0e75b6&style=flat" alt="cenofx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cenofx&label=Profile%20views&color=0e75b6&style=flat" alt="ikram" /> </p>
 
 - 📫 How to reach me **Gibranclothe@gmail.com**
 
@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cenofx&show_icons=true&locale=en&layout=compact" alt="cenofx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenofx&show_icons=true&locale=en" alt="cenofx" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cenofx&" alt="cenofx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenofx&show_icons=true&locale=en" alt="ikramx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikram&" alt="ikram" /></p>
